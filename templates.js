@@ -1,3 +1,6 @@
+// since I am using these over and over again we just seprate them out so we only need to update it one
+// place 
+
 const head = ({ title }) => `
     <head>
         <link rel='stylesheet' href='/assets/styles.css' />
