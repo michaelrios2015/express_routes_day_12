@@ -1,0 +1,17 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+/* the # is for id */
+
+ul#nav {
+  list-style-type: none;
+  /* flex box at work */
+  display: flex;
+  justify-content: space-around;
+  background-color: crimson;
+  padding: 1rem;
+}
+
+ul#nav a {
+  color: white;
+}
